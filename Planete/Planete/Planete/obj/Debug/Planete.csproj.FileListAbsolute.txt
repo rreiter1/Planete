@@ -1,0 +1,45 @@
+E:\PPE WEBFORM\Planete\Planete\Planete\bin\roslyn\csc.exe
+E:\PPE WEBFORM\Planete\Planete\Planete\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PPE WEBFORM\Planete\Planete\Planete\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PPE WEBFORM\Planete\Planete\Planete\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PPE WEBFORM\Planete\Planete\Planete\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PPE WEBFORM\Planete\Planete\Planete\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PPE WEBFORM\Planete\Planete\Planete\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PPE WEBFORM\Planete\Planete\Planete\bin\roslyn\System.Collections.Immutable.dll
+E:\PPE WEBFORM\Planete\Planete\Planete\bin\roslyn\System.Reflection.Metadata.dll
+E:\PPE WEBFORM\Planete\Planete\Planete\bin\roslyn\vbc.exe
+E:\PPE WEBFORM\Planete\Planete\Planete\bin\roslyn\VBCSCompiler.exe
+E:\PPE WEBFORM\Planete\Planete\Planete\bin\roslyn\VBCSCompiler.exe.config
+E:\PPE WEBFORM\Planete\Planete\Planete\bin\Planete.dll.config
+E:\PPE WEBFORM\Planete\Planete\Planete\bin\Planete.dll
+E:\PPE WEBFORM\Planete\Planete\Planete\bin\Planete.pdb
+E:\PPE WEBFORM\Planete\Planete\Planete\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PPE WEBFORM\Planete\Planete\Planete\bin\MySql.Data.dll
+E:\PPE WEBFORM\Planete\Planete\Planete\bin\Google.Protobuf.dll
+E:\PPE WEBFORM\Planete\Planete\Planete\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PPE WEBFORM\Planete\Planete\Planete\bin\MySql.Data.xml
+E:\PPE WEBFORM\Planete\Planete\Planete\obj\Debug\Planete.csprojResolveAssemblyReference.cache
+E:\PPE WEBFORM\Planete\Planete\Planete\obj\Debug\Planete.dll
+E:\PPE WEBFORM\Planete\Planete\Planete\obj\Debug\Planete.pdb
+I:\2018-2019\PPE\Planete\Planete\Planete\bin\roslyn\csc.exe
+I:\2018-2019\PPE\Planete\Planete\Planete\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\2018-2019\PPE\Planete\Planete\Planete\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\2018-2019\PPE\Planete\Planete\Planete\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\2018-2019\PPE\Planete\Planete\Planete\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\2018-2019\PPE\Planete\Planete\Planete\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\2018-2019\PPE\Planete\Planete\Planete\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\2018-2019\PPE\Planete\Planete\Planete\bin\roslyn\System.Collections.Immutable.dll
+I:\2018-2019\PPE\Planete\Planete\Planete\bin\roslyn\System.Reflection.Metadata.dll
+I:\2018-2019\PPE\Planete\Planete\Planete\bin\roslyn\vbc.exe
+I:\2018-2019\PPE\Planete\Planete\Planete\bin\roslyn\VBCSCompiler.exe
+I:\2018-2019\PPE\Planete\Planete\Planete\bin\roslyn\VBCSCompiler.exe.config
+I:\2018-2019\PPE\Planete\Planete\Planete\bin\Planete.dll.config
+I:\2018-2019\PPE\Planete\Planete\Planete\bin\Planete.dll
+I:\2018-2019\PPE\Planete\Planete\Planete\bin\Planete.pdb
+I:\2018-2019\PPE\Planete\Planete\Planete\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\2018-2019\PPE\Planete\Planete\Planete\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\2018-2019\PPE\Planete\Planete\Planete\obj\Debug\Planete.csprojAssemblyReference.cache
+I:\2018-2019\PPE\Planete\Planete\Planete\obj\Debug\Planete.csproj.CoreCompileInputs.cache
+I:\2018-2019\PPE\Planete\Planete\Planete\obj\Debug\Planete.csproj.CopyComplete
+I:\2018-2019\PPE\Planete\Planete\Planete\obj\Debug\Planete.dll
+I:\2018-2019\PPE\Planete\Planete\Planete\obj\Debug\Planete.pdb
